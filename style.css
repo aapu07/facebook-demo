@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+}
+
+
+#header {
+    height:240px;
+    width: 850px;
+    border-bottom:60px solid rgb(245, 244, 238);
+    margin: auto;
+    background-color:  rgb(40, 40, 90);
+    
+    
+
+}
+
+#profile {
+    height:180px;
+    width: 180px;
+    border: 1px solid black;
+    position: relative;
+    top: -30px;
+    left: 10px;
+    background-color: rgb(35, 168, 162);
+   
+}
+
+#link {
+    position: relative;
+    left: 220px;
+    bottom:  52px;
+    font-family: Arial;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 20px;
+    display: inline;
+    border-width: 2px;
+    border-image: initial;
+    
+}
+
+#link span {
+    padding: 5px;
+    border: 2px solid gray;
+
+}
+
+
+#botton {
+    position: relative;
+    left: 520px;
+    bottom:130px;
+    
+}
+
+header {
+    color: white;
+    position: relative;
+    top: 70px;
+    left: 200px;
+    font-size:  28px;
+    border-bottom: white 29px;
+    
+}
+
+h1 {
+    color: white;
+    position: relative;
+    top: 90px;
+    left: 208px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#colume1 {
+    height: 850px;
+    width: 512px;
+    background-color: rgb(52, 99, 100);
+    position: relative;
+    left: 338px;
+    padding-top: 30px;
+    
+}
+
+#colume2 {
+    height: 850px;
+    width: 328px;
+    background-color: rgb(68, 54, 54);
+    position: relative;
+    bottom: 850px;
+    
+}
+
+#colume-container {
+    width: 850px;
+    margin: auto;
+    
+}
+
+p {
+    
+    border: 10px;
+    background-position-x: 20px;
+    box-sizing: inherit 200px;
+    color: white;
+    margin: 20px;
+    margin-top: 600px;
+    margin-block-start: 20px;
+    margin-block-end: 10px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+}
+
+
+
+p image {
+    position: absolute;
+    border-image: 20px;
+}
+
+  
+
+
+#link2 {
+
+
+    
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial small-caption solid white;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-image: initial;
+    text: white
+
+}
+
+
+#box2 {
+    padding: inherit;
+    position: relative;
+    padding-top: 30px;
+    image-orientation: from-image;
+    left: 20px;
+}
+
